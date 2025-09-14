@@ -33,9 +33,9 @@ Game: 99 Nights in the Forest
 
 ✅ Fluxus
 
-✅ KRNL (mostly stable)
+✅ KRNL 
 
-✅ Xeno ✔️
+✅ Xeno 
 
 👤 Author
 
